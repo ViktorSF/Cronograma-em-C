@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1656715001 source:c:\dev\cprojects\projetoicc1\main.c
+	"cabecalho.h"
+
+1656715001 c:\dev\cprojects\projetoicc1\cabecalho.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1656715001 source:c:\dev\cprojects\projetoicc1\funcao.c
+	"cabecalho.h"
+
